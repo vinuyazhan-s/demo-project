@@ -1,9 +1,9 @@
 function App() {
   return (
     <div>
-      <h1>na than da leo 🚀</h1>
-      <p>LEO DASS</p>
-      <button>Get Started</button>
+      <h1>have a valid title</h1>
+      <p>second line</p>
+      <button>Get Starteedd</button>
     </div>
   );
 }
